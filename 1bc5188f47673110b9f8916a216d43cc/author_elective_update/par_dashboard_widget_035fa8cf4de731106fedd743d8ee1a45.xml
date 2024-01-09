@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">cf5fa8cf29e731107f047afdf1cd1645</canvas>
+        <component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component>
+        <component_props>{"table":"x_1110458_finance_transaction","fixedQuery":"","listTitle":"My Work","columns":"","query":"","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":true,"hideDotwalk":true,"hideColumnReorder":true,"hideRowSelector":false,"hideColumnGrouping":true,"hideColumnResizing":true,"hideColumnFiltering":true,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":true,"refreshRequested":"","noDebounce":""}</component_props>
+        <h>18</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-09 19:05:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>035fa8cf4de731106fedd743d8ee1a45</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Finance Tracker" source="x_1110458_finance">1bc5188f47673110b9f8916a216d43cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Tracker">1bc5188f47673110b9f8916a216d43cc</sys_scope>
+        <sys_update_name>par_dashboard_widget_035fa8cf4de731106fedd743d8ee1a45</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-09 21:46:36</sys_updated_on>
+        <visualization/>
+        <w>48</w>
+        <widget_props/>
+        <x>0</x>
+        <y>26</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Finance Tracker">1bc5188f47673110b9f8916a216d43cc</application>
+        <file_path/>
+        <instance_id>8d0c82051b5af11c65324089bd4bcbdf</instance_id>
+        <instance_name>dev201472</instance_name>
+        <name>par_dashboard_widget_035fa8cf4de731106fedd743d8ee1a45</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">cf5fa8cf29e731107f047afdf1cd1645</canvas><component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component><component_props>{"table":"x_1110458_finance_transaction","fixedQuery":"","listTitle":"My Work","columns":"","query":"","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":true,"hideDotwalk":true,"hideColumnReorder":true,"hideRowSelector":false,"hideColumnGrouping":true,"hideColumnResizing":true,"hideColumnFiltering":true,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":true,"refreshRequested":"","noDebounce":""}</component_props><h>18</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-09 19:05:00</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>035fa8cf4de731106fedd743d8ee1a45</sys_id><sys_mod_count>5</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Finance Tracker" source="x_1110458_finance">1bc5188f47673110b9f8916a216d43cc</sys_package><sys_policy/><sys_scope display_value="Finance Tracker">1bc5188f47673110b9f8916a216d43cc</sys_scope><sys_update_name>par_dashboard_widget_035fa8cf4de731106fedd743d8ee1a45</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-09 21:46:36</sys_updated_on><visualization/><w>48</w><widget_props/><x>0</x><y>26</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-768414619</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>bdca498f476b3110b9f8916a216d4355</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-09 21:46:36</sys_created_on>
+        <sys_id>b254118b47ab3110b9f8916a216d43f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18cf03111730000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-09 21:46:36</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>ba54118b86ab31104ec67311b85028f8</update_guid>
+        <update_guid_history>ba54118b86ab31104ec67311b85028f8:-768414619,ee63dd0befab3110a29168e915d235da:452470914,8e22cd071d6b3110ef370a4fef5681a6:932325860,7f337007872b3110136fef97211aa94e:256279302,086fe8cf59e731108d04b377fd5a2357:736134248,c06fe8cf7ce73110a9974def8333e656:-1085695965</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">bfa6590f47ab3110b9f8916a216d433d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-09 21:56:47</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>3658d67891a1467c93dc520c10b9f110</sys_id>
+        <sys_metadata>035fa8cf4de731106fedd743d8ee1a45</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Finance Tracker" source="x_1110458_finance">1bc5188f47673110b9f8916a216d43cc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Finance Tracker">1bc5188f47673110b9f8916a216d43cc</sys_scope>
+        <sys_scope_delete display_value="">69d5c5cab3a14909ae5ae33ec860ba41</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_035fa8cf4de731106fedd743d8ee1a45</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_035fa8cf4de731106fedd743d8ee1a45">b254118b47ab3110b9f8916a216d43f9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-09 21:56:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -3,7 +3,7 @@
         <created_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</created_by_user>
         <created_on>2022-05-29 16:29:20</created_on>
         <dashboard display_value="Finance Tracker">835fa8cf8ce73110005239a76fbdef46</dashboard>
-        <last_updated_on>2024-01-09 20:27:06</last_updated_on>
+        <last_updated_on>2024-01-09 21:59:53</last_updated_on>
         <requested_by_user/>
         <sys_class_name>par_dashboard_user_metadata</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -11,7 +11,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>875fa8cfd5e73110dddba6f246a6f045</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>13</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package display_value="Finance Tracker" source="x_1110458_finance">1bc5188f47673110b9f8916a216d43cc</sys_package>
@@ -19,7 +19,7 @@
         <sys_scope display_value="Finance Tracker">1bc5188f47673110b9f8916a216d43cc</sys_scope>
         <sys_update_name>par_dashboard_user_metadata_875fa8cfd5e73110dddba6f246a6f045</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-09 20:27:06</sys_updated_on>
+        <sys_updated_on>2024-01-09 21:59:53</sys_updated_on>
         <updated_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</updated_by_user>
     </par_dashboard_user_metadata>
 </record_update>
