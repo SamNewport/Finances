@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b807d44347a73110b9f8916a216d43ce" label="Transaction" max_length="40" name="x_1110458_finance_transaction" type="collection">
+        <element attributes="omit_sys_original=true" label="Ammount" mandatory="true" max_length="20" name="ammount" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="rent" label="Category" mandatory="true" max_length="40" name="category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Joint Expenditure" value="joint_expenditure"/>
+                <element inactive_on_update="false" label="Personal" value="personal"/>
+                <element inactive_on_update="false" label="Rent" value="rent"/>
+                <element inactive_on_update="false" label="Saving" value="saving"/>
+                <element inactive_on_update="false" label="Social" value="social"/>
+                <element inactive_on_update="false" label="Subscription" value="subscription"/>
+                <element inactive_on_update="false" label="Supermarket" value="supermarket"/>
+                <element inactive_on_update="false" label="Travel" value="travel"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:gs.nowDateTime()" dynamic_default_value="79cb83a85f220100a9ad2572f2b4773c" label="Date" mandatory="true" max_length="40" name="date" type="glide_date" use_dynamic_default="true"/>
+        <element choice="3" dependent="category" dependent_on_field="category" label="Subcategory" max_length="40" name="subcategory" type="choice" use_dependent_field="true">
+            <choice>
+                <element dependent_value="saving" inactive_on_update="false" label="Gifts" value="gift"/>
+                <element dependent_value="saving" inactive_on_update="false" label="Holiday" value="holiday"/>
+                <element dependent_value="personal" inactive_on_update="false" label="Food" sequence="5" value="food"/>
+                <element dependent_value="saving" inactive_on_update="false" label="LISA" sequence="5" value="lisa"/>
+                <element dependent_value="social" inactive_on_update="false" label="Pub" sequence="5" value="pub"/>
+                <element dependent_value="travel" inactive_on_update="false" label="Train" sequence="5" value="train"/>
+                <element dependent_value="travel" inactive_on_update="false" label="Bus" sequence="10" value="bus"/>
+                <element dependent_value="social" inactive_on_update="false" label="Food" sequence="10" value="food"/>
+                <element dependent_value="personal" inactive_on_update="false" label="Necessities" sequence="10" value="necessities"/>
+                <element dependent_value="saving" inactive_on_update="false" label="Regular Saver" sequence="10" value="regSaver"/>
+                <element dependent_value="personal" inactive_on_update="false" label="Hobbies" sequence="20" value="hobbies"/>
+                <element dependent_value="social" inactive_on_update="false" label="Other" sequence="20" value="other"/>
+                <element dependent_value="saving" inactive_on_update="false" label="Payback" sequence="20" value="payback"/>
+                <element dependent_value="travel" inactive_on_update="false" label="Uber" sequence="20" value="uber"/>
+                <element dependent_value="personal" inactive_on_update="false" label="Shopping" sequence="30" value="shopping"/>
+                <element dependent_value="personal" inactive_on_update="false" label="Substabces" sequence="40" value="substances"/>
+                <element dependent_value="personal" inactive_on_update="false" label="Other" sequence="50" value="other"/>
+            </choice>
+        </element>
+    </element>
+</database>

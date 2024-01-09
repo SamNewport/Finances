@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Location to display the ribbon</description>
+        <name>ribbonLocation</name>
+        <page display_value="">c9b5a8c355e73110ea2eabc63adb87b3</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-09 18:22:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>45b5a8c342e73110b0116eaf9ab3bca1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ribbonLocation</sys_name>
+        <sys_package display_value="Finance Tracker" source="x_1110458_finance">1bc5188f47673110b9f8916a216d43cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Tracker">1bc5188f47673110b9f8916a216d43cc</sys_scope>
+        <sys_update_name>sys_ux_page_property_45b5a8c342e73110b0116eaf9ab3bca1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-09 18:22:48</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1110458_finance.c9b5a8c355e73110ea2eabc63adb87b3.root.ribbonLocation</unique_name>
+        <value>sidebar</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Finance Tracker">1bc5188f47673110b9f8916a216d43cc</application>
+        <file_path/>
+        <instance_id>8d0c82051b5af11c65324089bd4bcbdf</instance_id>
+        <instance_name>dev201472</instance_name>
+        <name>sys_ux_page_property_45b5a8c342e73110b0116eaf9ab3bca1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>Location to display the ribbon</description><name>ribbonLocation</name><page display_value="">c9b5a8c355e73110ea2eabc63adb87b3</page><required_translations/><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-09 18:22:48</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>45b5a8c342e73110b0116eaf9ab3bca1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ribbonLocation</sys_name><sys_package display_value="Finance Tracker" source="x_1110458_finance">1bc5188f47673110b9f8916a216d43cc</sys_package><sys_policy/><sys_scope display_value="Finance Tracker">1bc5188f47673110b9f8916a216d43cc</sys_scope><sys_update_name>sys_ux_page_property_45b5a8c342e73110b0116eaf9ab3bca1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-09 18:22:48</sys_updated_on><type>string</type><unique_name>x_1110458_finance.c9b5a8c355e73110ea2eabc63adb87b3.root.ribbonLocation</unique_name><value>sidebar</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-1659579138</payload_hash>
+        <record_name>ribbonLocation</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-09 19:03:56</sys_created_on>
+        <sys_id>3b1f24cf47e73110b9f8916a216d439d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18cef9c24d10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-09 19:03:56</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>f71f24cf19e731104ab4d5c7ee17a69d</update_guid>
+        <update_guid_history>f71f24cf19e731104ab4d5c7ee17a69d:-1659579138</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-09 19:03:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>65255977370d498ca752bacc1e38dce4</sys_id>
+        <sys_metadata>45b5a8c342e73110b0116eaf9ab3bca1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ribbonLocation</sys_name>
+        <sys_package display_value="Finance Tracker" source="x_1110458_finance">1bc5188f47673110b9f8916a216d43cc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Finance Tracker">1bc5188f47673110b9f8916a216d43cc</sys_scope>
+        <sys_scope_delete display_value="">69d5c5cab3a14909ae5ae33ec860ba41</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_45b5a8c342e73110b0116eaf9ab3bca1</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_45b5a8c342e73110b0116eaf9ab3bca1">3b1f24cf47e73110b9f8916a216d439d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-09 19:03:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

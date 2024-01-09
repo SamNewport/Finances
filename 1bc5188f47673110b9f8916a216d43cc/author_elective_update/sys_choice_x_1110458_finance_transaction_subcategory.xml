@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="subcategory" table="x_1110458_finance_transaction" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>subcategory</element>
+            <name>x_1110458_finance_transaction</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-09 17:23:20</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>subcategory</sys_name>
+            <sys_package display_value="Finance Tracker" source="x_1110458_finance">1bc5188f47673110b9f8916a216d43cc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Finance Tracker">1bc5188f47673110b9f8916a216d43cc</sys_scope>
+            <sys_update_name>sys_choice_x_1110458_finance_transaction_subcategory</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-09 17:23:20</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>saving</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Gifts</label>
+            <language>en</language>
+            <name>x_1110458_finance_transaction</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-09 20:22:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-09 20:22:48</sys_updated_on>
+            <value>gift</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>saving</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Holiday</label>
+            <language>en</language>
+            <name>x_1110458_finance_transaction</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-09 20:22:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-09 20:23:06</sys_updated_on>
+            <value>holiday</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>personal</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Food</label>
+            <language>en</language>
+            <name>x_1110458_finance_transaction</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-09 17:25:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-09 17:43:06</sys_updated_on>
+            <value>food</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>saving</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LISA</label>
+            <language>en</language>
+            <name>x_1110458_finance_transaction</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-09 17:23:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>6</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-09 17:43:17</sys_updated_on>
+            <value>lisa</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>social</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pub</label>
+            <language>en</language>
+            <name>x_1110458_finance_transaction</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-09 17:24:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-09 17:43:27</sys_updated_on>
+            <value>pub</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>travel</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Train</label>
+            <language>en</language>
+            <name>x_1110458_finance_transaction</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-09 17:23:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-09 17:43:32</sys_updated_on>
+            <value>train</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>travel</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bus</label>
+            <language>en</language>
+            <name>x_1110458_finance_transaction</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-09 17:23:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-09 17:43:51</sys_updated_on>
+            <value>bus</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>social</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Food</label>
+            <language>en</language>
+            <name>x_1110458_finance_transaction</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-09 17:37:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-09 17:43:25</sys_updated_on>
+            <value>food</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>personal</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Necessities</label>
+            <language>en</language>
+            <name>x_1110458_finance_transaction</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-09 17:26:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-09 17:43:09</sys_updated_on>
+            <value>necessities</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>saving</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Regular Saver</label>
+            <language>en</language>
+            <name>x_1110458_finance_transaction</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-09 17:24:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>6</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-09 17:43:20</sys_updated_on>
+            <value>regSaver</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>personal</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hobbies</label>
+            <language>en</language>
+            <name>x_1110458_finance_transaction</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-09 17:26:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-09 17:43:12</sys_updated_on>
+            <value>hobbies</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>social</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_1110458_finance_transaction</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-09 17:38:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-09 17:43:38</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>saving</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Payback</label>
+            <language>en</language>
+            <name>x_1110458_finance_transaction</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-09 17:24:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>6</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-09 17:43:22</sys_updated_on>
+            <value>payback</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>travel</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Uber</label>
+            <language>en</language>
+            <name>x_1110458_finance_transaction</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-09 17:23:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-09 17:43:56</sys_updated_on>
+            <value>uber</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>personal</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Shopping</label>
+            <language>en</language>
+            <name>x_1110458_finance_transaction</name>
+            <sequence>30</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-09 17:27:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-09 17:43:14</sys_updated_on>
+            <value>shopping</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>personal</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Substabces</label>
+            <language>en</language>
+            <name>x_1110458_finance_transaction</name>
+            <sequence>40</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-09 17:26:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-09 17:43:00</sys_updated_on>
+            <value>substances</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>personal</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_1110458_finance_transaction</name>
+            <sequence>50</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-09 17:26:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-09 17:43:03</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

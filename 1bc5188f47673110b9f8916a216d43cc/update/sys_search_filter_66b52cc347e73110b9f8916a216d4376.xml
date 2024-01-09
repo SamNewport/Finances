@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Transaction">2ab52cc347e73110b9f8916a216d434f</ais_search_source>
+        <label>Transaction</label>
+        <name>Transaction</name>
+        <order>100</order>
+        <search_context_config display_value="Finance Tracker AI Search Configuration">8db5a8c396e7311010fa6f7ba6dcdcaa</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-09 18:22:53</sys_created_on>
+        <sys_id>66b52cc347e73110b9f8916a216d4376</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Transaction</sys_name>
+        <sys_package display_value="Finance Tracker" source="x_1110458_finance">1bc5188f47673110b9f8916a216d43cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Tracker">1bc5188f47673110b9f8916a216d43cc</sys_scope>
+        <sys_update_name>sys_search_filter_66b52cc347e73110b9f8916a216d4376</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-09 18:22:53</sys_updated_on>
+    </sys_search_filter>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <search_context_config display_value="Finance Tracker - Workspace Search">09b5a8c3e3e73110362aab3d0bde48aa</search_context_config>
+        <source display_value="Finance Tracker - x_1110458_finance_transaction">aab52cc347e73110b9f8916a216d4335</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-09 18:22:53</sys_created_on>
+        <sys_id>22b52cc347e73110b9f8916a216d4345</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Finance Tracker" source="x_1110458_finance">1bc5188f47673110b9f8916a216d43cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Tracker">1bc5188f47673110b9f8916a216d43cc</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_22b52cc347e73110b9f8916a216d4345</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-09 18:22:53</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>

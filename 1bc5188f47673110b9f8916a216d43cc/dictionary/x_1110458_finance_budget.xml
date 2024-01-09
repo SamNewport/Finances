@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="90576c4747e73110b9f8916a216d43ad" label="Budget" max_length="40" name="x_1110458_finance_budget" type="collection">
+        <element choice="1" choice_field="category" choice_table="x_1110458_finance_transaction" display="true" label="Category" max_length="40" name="category" type="string" use_dependent_field="true">
+            <choice>
+                <element inactive_on_update="false" label="Christmas/Birthday" sequence="0" value="presents"/>
+                <element inactive_on_update="false" label="Holidays" sequence="1" value="holidays"/>
+                <element inactive_on_update="false" label="Joint Expenditure" sequence="2" value="joint_expenditure"/>
+                <element inactive_on_update="false" label="Personal" sequence="3" value="personal"/>
+                <element inactive_on_update="false" label="Rent" sequence="4" value="rent"/>
+                <element inactive_on_update="false" label="Saving" sequence="5" value="saving"/>
+                <element inactive_on_update="false" label="Social" sequence="6" value="social"/>
+                <element inactive_on_update="false" label="Subscription" sequence="7" value="subscription"/>
+                <element inactive_on_update="false" label="Supermarket" sequence="8" value="supermarket"/>
+                <element inactive_on_update="false" label="Travel" sequence="9" value="travel"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Target" max_length="20" name="target" type="currency"/>
+    </element>
+</database>
